@@ -9,7 +9,7 @@ body { padding-top: 100px;
 footer { margin-top: 100px; 
 font-family: 'Oswald', sans-serif;
 }
-table, td, th { 
+table, td { 
 	vertical-align: middle; border: none; 
 	font-family: 'Oswald', sans-serif;
 }
